@@ -35,6 +35,22 @@ tail covid.fasta # bottom of file
 cp /home/guest/Downloads/covid_samples/covid_samples.fasta covid.fasta
 ```
 
+Redirect
+```
+grep ">" covid_samples.fasta > covid_sample_names.txt
+```
+Append it
+
+```
+grep ">" covid_samples.fasta >> covid_sample_names.txt
+```
+Count number of lines
+
+```
+wc covid_sample_names.txt # line, word, character
+wc -l covid_sample_names.txt # lines
+```
+
 ### Download data from NCBI
 
 ```
