@@ -32,7 +32,7 @@ tail covid.fasta # bottom of file
 
 ```
 # Copy source destination
-cp /homw/guest/Downloads/covid_samples/covid_samples.fasta covid.fasta
+cp /home/guest/Downloads/covid_samples/covid_samples.fasta covid.fasta
 ```
 
 ### Download data from NCBI
