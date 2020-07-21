@@ -1,5 +1,6 @@
 # NepalBioinformatics
 Applied Bioinformatics in Agriculture and Medicine
+Data and scripts for training newbies in bioinformatics
 
 # Download data from NCBI
 
