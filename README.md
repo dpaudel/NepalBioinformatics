@@ -8,6 +8,16 @@ July 19-23, 2020
 ### Computing session
 For this session, we will be using [Google Cloud Platform](https://cloud.google.com/).
 
+### Practise bash
+https://repl.it/languages/bash
+
+```
+ls
+ls -l
+ls -ltr
+mkdir corona
+cd corona
+```
 ### Download data from NCBI
 
 ```
