@@ -11,10 +11,13 @@ For this session, we will be using [Google Cloud Platform](https://cloud.google.
 ### Practise bash
 https://repl.it/languages/bash
 
+### Commonly used commands for practice
+https://bioinformaticsworkbook.org/Appendix/Unix/UnixCheatSheet.html#gsc.tab=0
+
 ```
-ls
-ls -l
-ls -ltr
+ls       # list the files
+ls -l    # detailed list
+ls -ltr  # list in reverse chronological order
 mkdir corona # make directory
 cd corona # change directory
 pwd # present working directory
