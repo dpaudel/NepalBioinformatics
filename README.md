@@ -21,6 +21,7 @@ pwd
 cd ..
 ls
 cd
+
 ```
 ### Download data from NCBI
 
