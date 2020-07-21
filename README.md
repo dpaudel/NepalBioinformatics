@@ -3,7 +3,8 @@ Applied Bioinformatics in Agriculture and Medicine
 Data and scripts for training newbies in bioinformatics
 
 ### Computing session
-For this session, we will be using Google Cloud Platform(https://cloud.google.com/).
+For this session, we will be using [Google Cloud Platform](https://cloud.google.com/).
+
 ### Download data from NCBI
 
 ```
