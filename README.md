@@ -17,6 +17,10 @@ ls -l
 ls -ltr
 mkdir corona
 cd corona
+pwd
+cd ..
+ls
+cd
 ```
 ### Download data from NCBI
 
