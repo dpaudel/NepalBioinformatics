@@ -21,8 +21,13 @@ pwd
 cd ..
 ls
 cd
+```
 
 ```
+cp /homw/guest/Downloads/covid_samples/covid_samples.fasta covid.fasta
+
+```
+
 ### Download data from NCBI
 
 ```
