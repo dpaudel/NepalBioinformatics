@@ -1,6 +1,9 @@
 # Applied Bioinformatics in Agriculture and Medicine
 Organized by [Association of Nepalese Agricultural Professionals of Americas (NAPA)](http://www.napaamericas.org) and [Agriculture and Forestry University](http://afu.edu.np/).
-Data and scripts for training newbies in bioinformatics
+
+July 19-23, 2020
+
+**Data and scripts for training newbies in bioinformatics**
 
 ### Computing session
 For this session, we will be using [Google Cloud Platform](https://cloud.google.com/).
