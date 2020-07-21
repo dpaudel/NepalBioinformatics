@@ -15,17 +15,21 @@ https://repl.it/languages/bash
 ls
 ls -l
 ls -ltr
-mkdir corona
-cd corona
-pwd
+mkdir corona # make directory
+cd corona # change directory
+pwd # present working directory
 cd ..
 ls
 cd
+less filename.txt # view file
+head filename.txt # head of file
+head -n 5 covid.fasta # top 5 lines
+tail covid.fasta # bottom of file
 ```
 
 ```
+# Copy source destination
 cp /homw/guest/Downloads/covid_samples/covid_samples.fasta covid.fasta
-
 ```
 
 ### Download data from NCBI
