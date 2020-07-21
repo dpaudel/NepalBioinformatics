@@ -2,7 +2,9 @@
 Applied Bioinformatics in Agriculture and Medicine
 Data and scripts for training newbies in bioinformatics
 
-# Download data from NCBI
+### Computing session
+For this session, we will be using Google Cloud Platform(https://cloud.google.com/).
+### Download data from NCBI
 
 ```
 wget https://sra-pub-sars-cov2.s3.amazonaws.com/sra-src/SRR11177792/WHV-Nepal-61-TW_1.fastq.gz
