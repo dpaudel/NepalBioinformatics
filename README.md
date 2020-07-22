@@ -59,7 +59,7 @@ wget https://sra-pub-sars-cov2.s3.amazonaws.com/sra-src/SRR11177792/WHV-Nepal-61
 fastq-dump -I --split-files SRR11177792
 ```
 
-![SNP calling pipeline](../snp_calling_pipeline.PNG)
+![SNP calling pipeline](https://github.com/dpaudel/NepalBioinformatics/blob/master/snp_calling_pipeline.PNG?raw=true)
 
 # Seminar Day 4: Commands used
 
