@@ -57,8 +57,52 @@ wc -l covid_sample_names.txt # lines
 wget https://sra-pub-sars-cov2.s3.amazonaws.com/sra-src/SRR11177792/WHV-Nepal-61-TW_1.fastq.gz
 fastq-dump -I --split-files SRR11177792
 ```
-# aCtivate conda
+
+# Seminar Day 4: Commands used
+
+### Go to your directory
 
 ```
- conda activate bioinformatics
- ```
+cd name12345
+```
+
+### Download raw data
+
+```
+fastq-dump SRR11177792 --split-files
+```
+
+### Copy reference genome to your directory from parent directory
+
+```
+cp /data/rawdata/NC_045512.2.fasta .
+```
+
+### Check quality of raw data
+
+```
+fastqc SRR11177792_1.fastq
+fastqc SRR11177792_2.fastq 
+```
+
+### Align with bwa-mem
+
+```
+bwa mem /data/rawdata/NC_045512.2.fasta SRR11177792_1.fastq SRR11177792_2.fastq > SRR11177792.sam
+```
+
+### Check sam file
+
+```
+head SRR11177792.sam
+```
+### Convert sam to binary bam file
+
+```
+samtools view -S -b SRR11177792.sam > SRR11177792.bam
+```
+
+# Sort bam file
+```
+samtools sort SRR11177792.bam -o SRR11177792.sorted.bam
+```
