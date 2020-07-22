@@ -2,6 +2,7 @@
 Organized by [Association of Nepalese Agricultural Professionals of Americas (NAPA)](http://www.napaamericas.org) and [Agriculture and Forestry University](http://afu.edu.np/).
 
 July 19-23, 2020
+Instructors: Dr. Ananta Acharya, Sishir Subedi, Dr. Dev Paudel, Dr. Saroj Parajuli
 
 **Data and scripts for training newbies in bioinformatics**
 
