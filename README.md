@@ -85,19 +85,20 @@ cp /data/rawdata/NC_045512.2.fasta .
 fastqc SRR11177792_1.fastq
 fastqc SRR11177792_2.fastq 
 ```
+View sample of fastqc report: https://drive.google.com/file/d/15MVcmcjlLPH82NZDpYSQdnLuWIqy5rrN/view?usp=sharing
 
-### Align with bwa-mem
+### Align raw reads with bwa-mem to the reference genome
 
 ```
 bwa mem /data/rawdata/NC_045512.2.fasta SRR11177792_1.fastq SRR11177792_2.fastq > SRR11177792.sam
 ```
 
-### Check sam file
+### Check the alignment (sam) file
 
 ```
 head SRR11177792.sam
 ```
-### Convert sam to binary bam file
+### Convert sam to binary bam file to save storage space
 
 ```
 samtools view -S -b SRR11177792.sam > SRR11177792.bam
