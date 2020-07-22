@@ -88,7 +88,11 @@ fastq-dump SRR11177792 --split-files -N 10000 -X 110000
 ```
 cp /data/rawdata/NC_045512.2.fasta .
 ```
+### Index the reference (genome) sequence
 
+```
+bwa index NC_045512.2.fasta
+```
 ### Check quality of raw data
 
 ```
