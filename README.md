@@ -59,6 +59,8 @@ wget https://sra-pub-sars-cov2.s3.amazonaws.com/sra-src/SRR11177792/WHV-Nepal-61
 fastq-dump -I --split-files SRR11177792
 ```
 
+![SNP calling pipeline](../snp_calling_pipeline.PNG)
+
 # Seminar Day 4: Commands used
 
 ## Login directions for using MobaXterm
