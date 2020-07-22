@@ -75,7 +75,11 @@ cd name12345
 ```
 fastq-dump SRR11177792 --split-files
 ```
+### Download only 100,000 reads
 
+```
+fastq-dump SRR11177792 --split-files -N 10000 -X 110000
+```
 ### Copy reference genome to your directory from parent directory
 
 ```
