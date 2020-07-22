@@ -118,6 +118,11 @@ samtools view -S -b SRR11177792.sam > SRR11177792.bam
 ```
 samtools sort SRR11177792.bam -o SRR11177792.sorted.bam
 ```
+### View statistics of bam file
+
+```
+samtools flagstat SRR11177792.sorted.bam
+```
 
 ### Download IGV viewer
 
