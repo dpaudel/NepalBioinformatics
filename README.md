@@ -102,7 +102,11 @@ head SRR11177792.sam
 samtools view -S -b SRR11177792.sam > SRR11177792.bam
 ```
 
-# Sort bam file
+### Sort bam file
 ```
 samtools sort SRR11177792.bam -o SRR11177792.sorted.bam
 ```
+
+### Download IGV viewer
+
+http://software.broadinstitute.org/software/igv/download
