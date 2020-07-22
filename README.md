@@ -73,7 +73,8 @@ cd name12345
 ### Download raw data
 
 ```
-fastq-dump SRR11177792 --split-files
+# Do not run this as it takes a lot of storage and time. Filter only 100,000 reads as shown in the next command.
+# fastq-dump SRR11177792 --split-files
 ```
 ### Download only 100,000 reads
 
