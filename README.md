@@ -61,6 +61,9 @@ fastq-dump -I --split-files SRR11177792
 
 # Seminar Day 4: Commands used
 
+## Login directions for using MobaXterm
+https://1drv.ms/b/s!AnZvwUbCCvF77XErrqD1HaawPfd8?e=mPKRAU
+
 ### Go to your directory
 
 ```
