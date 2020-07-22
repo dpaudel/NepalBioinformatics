@@ -58,7 +58,7 @@ wc -l covid_sample_names.txt # lines
 wget https://sra-pub-sars-cov2.s3.amazonaws.com/sra-src/SRR11177792/WHV-Nepal-61-TW_1.fastq.gz
 fastq-dump -I --split-files SRR11177792
 ```
-
+### Variant / SNP calling pipeline
 ![SNP calling pipeline](https://github.com/dpaudel/NepalBioinformatics/blob/master/snp_calling_pipeline.PNG?raw=true)
 
 # Seminar Day 4: Commands used
