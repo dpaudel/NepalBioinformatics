@@ -66,6 +66,27 @@ fastq-dump -I --split-files SRR11177792
 ## Login directions for using MobaXterm
 https://1drv.ms/b/s!AnZvwUbCCvF77XErrqD1HaawPfd8?e=mPKRAU
 
+## Login directions for Linux
+
+Install putty
+
+```
+brew install putty
+```
+Convert .ppk file to openssh
+
+```
+puttygen key.ppk -O private-openssh -o key.pem
+```
+Use ssh to connect:
+
+```
+ssh -i key.pem afu@104.154.53.116
+```
+Use given passphrase to login to the google cloud.
+
+## Start the analysis
+
 ### Go to your directory
 
 ```
