@@ -160,7 +160,7 @@ muscle -in /data/rawdata/Sgen.fa -out Sgen.2.mfa
  ### Make cluster using MUSCLE
  
  ```
- muscle -maketree -in Sgen.mfa -out covid.phy -cluster neighborjoining
+ muscle -maketree -in /data/rawdata/Sgen.mfa -out covid.phy -cluster neighborjoining
  ```
  
  View phylogeny: http://etetoolkit.org/treeview/
