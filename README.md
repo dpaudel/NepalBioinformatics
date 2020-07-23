@@ -136,3 +136,9 @@ samtools flagstat SRR11177792.sorted.bam
 ### Download IGV viewer
 
 http://software.broadinstitute.org/software/igv/download
+
+### Call variants
+
+```
+bcftools mpileup -f /data/rawdata/NC_045512.2.fasta SRR11177792.sorted.bam | bcftools call -mv -Ov -o SRR11177792.variants.txt
+```
