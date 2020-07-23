@@ -152,4 +152,9 @@ samtools view /data/rawdata/covid_samples.sorted.bam NC_045512.2:21563-25384 > S
 ```
 muscle -in /data/rawdata/Sgen.fa -out Sgen.2.mfa
 ```
+### View as html
 
+```
+ muscle -in /data/rawdata/Sgen.fa -out Sgen.2.mfa -html
+ ```
+ 
