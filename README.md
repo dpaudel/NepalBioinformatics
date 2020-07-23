@@ -146,3 +146,10 @@ bcftools mpileup -f /data/rawdata/NC_045512.2.fasta SRR11177792.sorted.bam | bcf
 ```
 samtools view /data/rawdata/covid_samples.sorted.bam NC_045512.2:21563-25384 > Sgen.sorted.bam
 ```
+
+# Multiple alignment
+
+```
+muscle -in /data/rawdata/Sgen.fa -out Sgen.2.mfa
+```
+
