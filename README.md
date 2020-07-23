@@ -142,3 +142,7 @@ http://software.broadinstitute.org/software/igv/download
 ```
 bcftools mpileup -f /data/rawdata/NC_045512.2.fasta SRR11177792.sorted.bam | bcftools call -mv -Ov -o SRR11177792.variants.txt
 ```
+
+```
+samtools view /data/rawdata/covid_samples.sorted.bam NC_045512.2:21563-25384 > Sgen.sorted.bam
+```
