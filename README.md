@@ -83,6 +83,12 @@ Use ssh to connect:
 ```
 ssh -i key.pem afu@104.154.53.116
 ```
+If permission error is seen then use the following code to fix prior to ssh:
+
+```
+chmod 400 key.pem
+```
+
 Use given passphrase to login to the google cloud.
 
 ## Start the analysis
