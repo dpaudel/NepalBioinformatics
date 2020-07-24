@@ -5,7 +5,12 @@ Website: http://www.napaamericas.org/bioinformatics.php
 Organized by [Association of Nepalese Agricultural Professionals of Americas (NAPA)](http://www.napaamericas.org) and [Agriculture and Forestry University](http://afu.edu.np/).
 
 July 19-23, 2020
-Instructors: Dr. Ananta Acharya (ananta.acharya at gmail dot com), Sishir Subedi (subedisishir at gmail dot com), Dr. Dev Paudel (merodev at gmail dot com), Dr. Saroj Parajuli (sarose97 at gmail dot com)
+Instructors: 
+
+**Dr. Ananta Acharya** (ananta.acharya at gmail dot com)
+**Sishir Subedi** (subedisishir at gmail dot com)
+**Dr. Dev Paudel** (merodev at gmail dot com)
+**Dr. Saroj Parajuli** (sarose97 at gmail dot com)
 
 **Data and scripts for training newbies in bioinformatics**
 
