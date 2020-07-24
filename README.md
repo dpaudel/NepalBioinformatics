@@ -15,7 +15,7 @@ Instructors:
 
 **Dr. Saroj Parajuli** (sarose97 at gmail dot com)
 
-**Data and scripts for training newbies in bioinformatics**
+**DATA AND SCRIPTS FOR TRAINING NEWBIES IN BIOINFORMATICS**
 
 ### Computing session
 For this session, we will be using [Google Cloud Platform](https://cloud.google.com/).
