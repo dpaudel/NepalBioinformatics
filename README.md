@@ -7,15 +7,10 @@ Organized by [Association of Nepalese Agricultural Professionals of Americas (NA
 July 19-23, 2020
 ____
 Instructors: 
-
-**Dr. Ananta Acharya** (ananta.acharya at gmail dot com)
-
-**Sishir Subedi** (subedisishir at gmail dot com)
-
-**Dr. Dev Paudel** (merodev at gmail dot com)
-
-**Dr. Saroj Parajuli** (sarose97 at gmail dot com)
-
+- **Dr. Ananta Acharya** (ananta.acharya at gmail dot com)
+- **Sishir Subedi** (subedisishir at gmail dot com)
+- **Dr. Dev Paudel** (merodev at gmail dot com)
+- **Dr. Saroj Parajuli** (sarose97 at gmail dot com)
 ____
 **DATA AND SCRIPTS FOR TRAINING NEWBIES IN BIOINFORMATICS**
 
