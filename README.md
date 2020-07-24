@@ -14,6 +14,7 @@ For this session, we will be using [Google Cloud Platform](https://cloud.google.
 
 ### Practise bash
 https://repl.it/languages/bash
+
 https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 
 ### Commonly used commands for practice
