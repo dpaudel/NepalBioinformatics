@@ -16,7 +16,7 @@ Instructors:
 
 **Dr. Saroj Parajuli** (sarose97 at gmail dot com)
 
-
+____
 **DATA AND SCRIPTS FOR TRAINING NEWBIES IN BIOINFORMATICS**
 
 ### Computing session
