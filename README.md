@@ -1,4 +1,7 @@
 # Applied Bioinformatics in Agriculture and Medicine
+
+Website: http://www.napaamericas.org/bioinformatics.php
+
 Organized by [Association of Nepalese Agricultural Professionals of Americas (NAPA)](http://www.napaamericas.org) and [Agriculture and Forestry University](http://afu.edu.np/).
 
 July 19-23, 2020
@@ -11,6 +14,7 @@ For this session, we will be using [Google Cloud Platform](https://cloud.google.
 
 ### Practise bash
 https://repl.it/languages/bash
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 
 ### Commonly used commands for practice
 https://bioinformaticsworkbook.org/Appendix/Unix/UnixCheatSheet.html#gsc.tab=0
