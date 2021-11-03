@@ -17,12 +17,12 @@ ____
 ### Software used
 For the training session, following software will be used. These are pre-installed on the instance of Google Cloud that we will be using. For your personal use later, you will need to download and install these software into your computer.
 
-SRA-toolkit: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
-BWA: http://bio-bwa.sourceforge.net/
-Fastqc: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
-Samtools: http://www.htslib.org/download/
-IGV: http://software.broadinstitute.org/software/igv/download
-MUSCLE: https://www.drive5.com/muscle/
+- SRA-toolkit: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit
+- BWA: http://bio-bwa.sourceforge.net/
+- Fastqc: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+- Samtools: http://www.htslib.org/download/
+- IGV: http://software.broadinstitute.org/software/igv/download
+- MUSCLE: https://www.drive5.com/muscle/
 
 ### Computing session
 For this session, we will be using [Google Cloud Platform](https://cloud.google.com/).
